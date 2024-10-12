@@ -1,4 +1,5 @@
-# 💫 About Me:
+<div align="center">
+<h1> 💫 About Me:</h1>
 As a dedicated software developer student, I am passionate about solving complex problems through code and building seamless user experiences. With a strong foundation in full-stack development, I have honed my skills in HTML, CSS, JavaScript, Node.js, React, Express, MongoDB, and Redux. I thrive on challenges, constantly learning and adapting to new technologies to create efficient and innovative solutions. I am eager to collaborate and bring fresh ideas to the table, always ready to tackle new projects and opportunities. Feel free to reach out with any questions or ideas!
 <hr>
 <h1> 🍳 Career and Learning Objectives:</h1>
@@ -23,3 +24,4 @@ Planning to learn blockchain technology. <br>
 [![](https://visitcount.itsvg.in/api?id=nmnnrb&icon=1&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
